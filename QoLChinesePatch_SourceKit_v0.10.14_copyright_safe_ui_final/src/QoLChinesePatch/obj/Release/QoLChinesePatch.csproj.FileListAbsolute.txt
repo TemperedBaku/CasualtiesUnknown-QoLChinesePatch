@@ -1,0 +1,9 @@
+D:\ModWork\QoLChinesePatch_SourceKit_v0.10.14_copyright_safe_ui_final\src\QoLChinesePatch\bin\Release\QoLChinesePatch.dll
+D:\ModWork\QoLChinesePatch_SourceKit_v0.10.14_copyright_safe_ui_final\src\QoLChinesePatch\bin\Release\QoLChinesePatch.pdb
+D:\ModWork\QoLChinesePatch_SourceKit_v0.10.14_copyright_safe_ui_final\src\QoLChinesePatch\obj\Release\QoLChinesePatch.csproj.AssemblyReference.cache
+D:\ModWork\QoLChinesePatch_SourceKit_v0.10.14_copyright_safe_ui_final\src\QoLChinesePatch\obj\Release\QoLChinesePatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\ModWork\QoLChinesePatch_SourceKit_v0.10.14_copyright_safe_ui_final\src\QoLChinesePatch\obj\Release\QoLChinesePatch.AssemblyInfoInputs.cache
+D:\ModWork\QoLChinesePatch_SourceKit_v0.10.14_copyright_safe_ui_final\src\QoLChinesePatch\obj\Release\QoLChinesePatch.AssemblyInfo.cs
+D:\ModWork\QoLChinesePatch_SourceKit_v0.10.14_copyright_safe_ui_final\src\QoLChinesePatch\obj\Release\QoLChinesePatch.csproj.CoreCompileInputs.cache
+D:\ModWork\QoLChinesePatch_SourceKit_v0.10.14_copyright_safe_ui_final\src\QoLChinesePatch\obj\Release\QoLChinesePatch.dll
+D:\ModWork\QoLChinesePatch_SourceKit_v0.10.14_copyright_safe_ui_final\src\QoLChinesePatch\obj\Release\QoLChinesePatch.pdb

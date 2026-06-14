@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = QoLChinesePatch
+build_property.ProjectDir = D:\ModWork\QoLChinesePatch_SourceKit_v0.10.14_copyright_safe_ui_final\src\QoLChinesePatch\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
